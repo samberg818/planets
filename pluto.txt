@@ -1,4 +1,8 @@
 Pluto is not a planet
 Are you sure? 
 I am not sure. It was once a planet but I don't think it is anymore. Very sad.
+<<<<<<< HEAD
 Now we are racing to see who's change get upload first
+=======
+I wonder why it is not classified as a planet anymore.
+>>>>>>> c580467bb041c8d0523485c106db40f2dc8dd829
